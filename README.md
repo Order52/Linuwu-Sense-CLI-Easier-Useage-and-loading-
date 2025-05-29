@@ -49,25 +49,25 @@ All through a terminal interface, backed by SysFS and requiring root access.
 
 ```bash
 sudo pacman -S linux-headers
-
+```
 ### 🛠️ Step 2: Clone and Build the Module
   ```bash
 git clone https://github.com/Order52/linuwu-sense-cli.git
 cd Linuwu-Sense
 make install
-
+```
 ⚠️ This will remove the default acer_wmi module and load the patched version from Linuwu-Sense.
 Make sure to run with sudo if needed.
 
 ⚙️ Using Clang Instead?
   ```bash
 sudo make CC=clang LD=ld.lld install
-
+```
 🔄 To Uninstall
 
   ```bash
 make uninstall
-
+```
 
 ### Then Run the Script
 
