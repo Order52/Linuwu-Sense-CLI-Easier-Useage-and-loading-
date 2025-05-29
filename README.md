@@ -59,6 +59,8 @@ make install
 ⚠️ This will remove the default acer_wmi module and load the patched version from Linuwu-Sense.
 Make sure to run with sudo if needed.
 
+
+
 ⚙️ Using Clang Instead?
   ```bash
 sudo make CC=clang LD=ld.lld install
