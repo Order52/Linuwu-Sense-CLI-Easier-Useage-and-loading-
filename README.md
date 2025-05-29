@@ -53,7 +53,7 @@ sudo pacman -S linux-headers
 ### 🛠️ Step 2: Clone and Build the Module
   ```bash
 git clone https://github.com/Order52/linuwu-sense-cli.git
-cd Linuwu-Sense
+cd linuwu-sense-cli
 make install
 ```
 ⚠️ This will remove the default acer_wmi module and load the patched version from Linuwu-Sense.
