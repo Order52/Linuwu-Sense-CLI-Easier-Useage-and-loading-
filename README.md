@@ -12,7 +12,9 @@ This launcher script was developed (with some help from AI 😎) to provide a **
 ## 📸 Preview
 
 Here’s what the tool looks like in action:
+
 ![image](https://github.com/user-attachments/assets/61cd9260-3b39-4303-aade-3271d16cc56a)
+
 
 ---
 
